@@ -209,7 +209,7 @@ public class Exercise2 {
         {
             System.out.println("The number that you chose is ODD!!!");
         }
-        System.out.println("Have a nice day - test");
+        System.out.println("Have a nice day");
         
         
          
