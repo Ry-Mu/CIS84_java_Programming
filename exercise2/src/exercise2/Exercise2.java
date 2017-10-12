@@ -211,8 +211,6 @@ public class Exercise2 {
         }
         System.out.println("Have a nice day");
         
-        
-         
          
     }
 }
