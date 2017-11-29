@@ -20,8 +20,6 @@ public class Exercise4 {
      */
     public static void main(String[] args) 
     { 
-        double test = (4.11 + 4.11);
-        System.out.println(test);
         Scanner input = new Scanner(System.in);
 
         double product1 = 2.98;
@@ -79,7 +77,7 @@ public class Exercise4 {
         double prod4Total = (product4 * product4Count);
         double prod5Total = (product5 * product5Count);
         
-        double totalPurchase = Math.round(prod1Total + prod2Total + prod3Total + prod4Total + prod5Total);
+        double totalPurchase = (prod1Total + prod2Total + prod3Total + prod4Total + prod5Total);
         
         
         System.out.println("***************************************************************");
